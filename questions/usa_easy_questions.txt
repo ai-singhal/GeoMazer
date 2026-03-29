@@ -28,7 +28,7 @@ Abraham Lincoln
 George Washington
 Bill Clinton
 4
-Just remember the phrase “We Just Like Rushmore.” Washington, Jefferson, Lincoln, and Roosevelt. (Just don't forget that it's Teddy, not Franklin Roosevelt!)
+Just remember the phrase "We Just Like Rushmore." Washington, Jefferson, Lincoln, and Roosevelt. (Just don't forget that it's Teddy, not Franklin Roosevelt!)
 
 Q: What is the US capital city?
 Washington D.C.
@@ -68,7 +68,7 @@ Miami, Florida
 Phoenix, Arizona
 Palm Springs, California
 1
-As the name suggests, Death Valley has gotten so hot at times that one could feel as if they were being cooked alive! The hottest temperature ever recorded was on July 10, 1913, at a record-breaking 134°F!
+As the name suggests, Death Valley has gotten so hot at times that one could feel as if they were being cooked alive! The hottest temperature ever recorded was on July 10, 1913, at a record-breaking 134 degrees F!
 
 Q: What ocean is off the Californian coast?
 Atlantic
@@ -118,7 +118,7 @@ Q: How many US states are there on the American mainland?
 3
 There are 48 states on the American mainland excluding Alaska and Hawaii.
 
-Q: What is California’s biggest fault?
+Q: What is California's biggest fault?
 San Gregorio-Hosgri fault
 Hayward fault
 Garlock fault
@@ -172,7 +172,7 @@ California & Nevada
 Texas
 Arizona
 2
-Death Valley has reached a record high of 134°F and spans over 5,000 square miles (mostly in California but a small chunk in Nevada).
+Death Valley has reached a record high of 134 degrees F and spans over 5,000 square miles (mostly in California but a small chunk in Nevada).
 
 Q: What US state is both the easternmost and westernmost state?
 New York
@@ -180,7 +180,7 @@ Hawaii
 Alaska
 Maine
 3
-The Aleutian Islands cross longitude 180°, so Alaska can be considered the easternmost state as well as the westernmost. Alaska and, especially, the Aleutians are one of the extreme points of the United States.
+The Aleutian Islands cross longitude 180 degrees, so Alaska can be considered the easternmost state as well as the westernmost.
 
 Q: What are the only 2 US state capitals that have rhyming names?
 Juneau & Honolulu
@@ -212,7 +212,7 @@ Los Angeles, CA
 Anaheim, CA
 Orlando, FL
 4
-Disneyworld opened on October 1, 1971 Walt Disney intended Disneyworld to have educational as well as amusement value and to entertain adults and their children!
+Disneyworld opened on October 1, 1971. Walt Disney intended Disneyworld to have educational as well as amusement value and to entertain adults and their children!
 
 Q: What is the most southern US state?
 Hawaii
@@ -220,8 +220,7 @@ Florida
 Texas
 Alaska
 1
-Hawaii
-US maps usually place the state of Hawaii in small subsections, so it can be hard to get a sense of just how remote Hawaii is. On a globe, you can get a better sense of how far out in the Pacific Ocean the state is. At 18 degrees 55 minutes north, Ka Lae on the Big Island of Hawaii is the southernmost point in the US.
+Hawaii is the southernmost state in the United States.
 
 Q: What is the most western US state?
 California
@@ -229,7 +228,7 @@ Alaska
 Hawaii
 Texas
 2
-US maps can be a bit deceiving, and to some, it might look like Cape Mendocino, the westernmost point in California, is the farthest west of the 48 states. This is not the case, however.
+US maps can be a bit deceiving, but Alaska extends farther west than the other states.
 
 Q: What is the most eastern US state?
 California
@@ -237,7 +236,7 @@ Hawaii
 Alaska
 Texas
 3
-Surprisingly, Alaska is both the most eastern and western US state. How cool is that!
+Surprisingly, Alaska is both the most eastern and western US state.
 
 Q: In what US city is the World of Coca-Cola located?
 Sacramento, California
@@ -245,7 +244,7 @@ Chicago, Illinois
 Las Vegas, Nevada
 Atlanta, Georgia
 4
-The World of Coca-Cola is a museum, located in Atlanta, Georgia, showcasing the history of The Coca-Cola Company.
+The World of Coca-Cola is a museum in Atlanta, Georgia, showcasing the history of The Coca-Cola Company.
 
 Q: What is the capital city of Alaska?
 Juneau
@@ -253,84 +252,4 @@ Anchorage
 Fairbanks
 Seattle
 1
-A common error is choosing Anchorage or Fairbanks. Juneau was established as the capital of Alaska in 1906. At the time, Anchorage wasn't in existence, and Fairbanks was only a remote settlement. Juneau, on the other hand, had a thriving mining industry and was easy to access from ships that left from Seattle.
-
-Q: What is Florida's nickname?
-The Golden State
-The Sunshine State
-The Peach State
-Show Me State
-2
-The Sunshine State is Florida's nickname because of the state's geography and abundance of sunny weather.
-
-Q: What is the most populated city in the USA?
-Los Angeles, CA
-Chicago, IL
-New York City, NY
-Houston, TX
-3
-Even though California is the most populated state, New York City is twice the population of the second most populated city, Los Angeles.
-
-Q: What is the most populated city in California?
-San Fransisco
-San Diego
-San Jose
-Los Angeles
-4
-The population of Los Angeles is a whopping 3.973 million! That's more than double the second most populated city in California, San Diego.
-
-Q: What is the capital city of Massachusetts?
-Boston
-Nashville
-New Orleans
-Miami
-1
-Boston, officially the City of Boston, is the capital and most populous city of the Commonwealth of Massachusetts in the United States and the 24th-most populous city in the country. The city proper covers about 48.4 sq mi with a population of 675,647 in 2020, also making it the most populous city in New England.
-
-Q: What is Hawaii's nickname?
-The Sunshine State
-The Flower State
-The Aloha State
-The Garden State
-3
-Hawaii is known as the Aloha State because Hawaiians are generally friendly and hospitable by nature. They usually welcome visitors with aloha, which means "hello" in Hawaiian.
-
-Q: What is the biggest national park in California?
-Yosemite National Park
-Death Valley National Park
-Grand Canyon National Park
-Yellowstone National Park
-2
-Death Valley spans over 5,000 square miles! (mostly in California but a small chunk in Nevada)
-
-Q: What US state is Washington D.C. in?
-New York
-Maryland
-Virginia
-Washington D.C. is not in a state
-4
-Washington D.C. is a district. DC stands for District of Columbia.
-
-Q: Which US state is not on the Canadian border?
-Idaho
-Minnesota
-Indiana
-New York
-3
-Idaho, Minnesota, and New York all border Canada.
-
-Q: What US state is the tallest tree in?
-California
-Maine
-New Hampshire
-American Samoa
-1
-The tallest tree currently living is a specimen of Sequoia sempervirens in Redwood National Park in California, USA. Nicknamed Hyperion, the coast redwood was discovered by Chris Atkins and Michael Taylor (both USA) on 25 August 2006 and its precise location is kept a closely guarded secret to try and protect it.
-
-Q: What US state has the most trees?
-New Hampshire
-Maine
-Washington
-Alaska
-2
-Maine is 89.46% forest followed by New Hampshire which is 84.32% forest.
+Juneau was established as the capital of Alaska in 1906.

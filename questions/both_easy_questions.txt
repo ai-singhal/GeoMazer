@@ -28,7 +28,7 @@ Abraham Lincoln
 George Washington
 Bill Clinton
 4
-Just remember the phrase “We Just Like Rushmore.” Washington, Jefferson, Lincoln, and Roosevelt. (Just don't forget that it's Teddy, not Franklin Roosevelt!)
+Just remember the phrase "We Just Like Rushmore." Washington, Jefferson, Lincoln, and Roosevelt.
 
 Q: What is the US capital city?
 Washington D.C.
@@ -36,7 +36,7 @@ New York
 Los Angeles
 Chicago
 1
-Washington D.C. is the only city in the USA that is not in any state!
+Washington D.C. is the capital of the United States.
 
 Q: What is the capital city of California?
 Los Angeles
@@ -44,7 +44,7 @@ Sacramento
 San Fransisco
 Washington D.C.
 2
-Sacramento grew in popularity around the time of California's gold rush and because of its convenient location to the rest of the state, it became a hub for transportation, agriculture, and community.
+Sacramento is the capital of California.
 
 Q: Which of the following US states is an island?
 Alaska
@@ -52,7 +52,7 @@ Maryland
 Hawaii
 Florida
 3
-Hawaii is the last state to join the US and is in fact, an island. Hence, the name the Hawaiian Islands.
+Hawaii is the island state in this list.
 
 Q: Where did George Washington live during his presidency?
 The Bikini Bottom
@@ -60,7 +60,7 @@ The White House
 Winchester's Mystery House
 "The President's House" in Philadelphia
 4
-The White House was built in 1792 and both presidents George Washington and John Adams lived in The President's House before John Adams and his wife, Abigail moved into the White House in 1800.
+George Washington lived in the President's House in Philadelphia while serving as president.
 
 Q: What is the hottest place in the USA?
 Death Valley, California
@@ -68,7 +68,7 @@ Miami, Florida
 Phoenix, Arizona
 Palm Springs, California
 1
-As the name suggests, Death Valley has gotten so hot at times that one could feel as if they were being cooked alive! The hottest temperature ever recorded was on July 10, 1913, at a record-breaking 134°F!
+Death Valley is famous for its extreme heat.
 
 Q: What ocean is off the Californian coast?
 Atlantic
@@ -76,7 +76,7 @@ Pacific
 Indian
 Arctic
 2
-California is in the West and is covered by the Pacific ocean.
+California borders the Pacific Ocean.
 
 Q: In what US state is Harvard University?
 California
@@ -84,7 +84,7 @@ Washington D.C.
 Massachusetts
 Pennsylvania
 3
-Harvard University is the oldest university in the USA founded in 1636. Massachusetts is the 6th state in the USA!
+Harvard University is in Massachusetts.
 
 Q: What is the capital city of Arizona?
 Austin
@@ -92,7 +92,7 @@ Las Vegas
 Houston
 Phoenix
 4
-Phoenix is the 6th largest city in the US with a population of 1.4 million people.
+Phoenix is the capital of Arizona.
 
 Q: What US state was called Quinnehtukqut by Native Americans?
 Connecticut
@@ -100,7 +100,7 @@ California
 Colorado
 Oklahoma
 1
-Sound it out. Qui-nneh-tuk-qut sounds like Co-nnec-ti-cut.
+The name Quinnehtukqut is connected to Connecticut.
 
 Q: In what US state can you find the Alamo?
 California
@@ -108,7 +108,7 @@ Texas
 Arizona
 New Mexico
 2
-The Alamo was a fort built in the 18th century during the Battle of the Alamo and was fought between the Republic of Texas and Mexico.
+The Alamo is in San Antonio, Texas.
 
 Q: How many US states are there on the American mainland?
 50
@@ -116,87 +116,15 @@ Q: How many US states are there on the American mainland?
 48
 51
 3
-There are 48 states on the American mainland excluding Alaska and Hawaii.
+There are 48 mainland states.
 
-Q: What is California’s biggest fault?
+Q: What is California's biggest fault?
 San Gregorio-Hosgri fault
 Hayward fault
 Garlock fault
 San Andreas fault
 4
-The San Andreas Fault is a continental transform fault that extends roughly 1,200 kilometers through California. It forms the tectonic boundary between the Pacific Plate and the North American Plate.
-
-Q: What ocean is the US state of Hawaii located in?
-Pacific
-Indian
-Atlantic
-Arctic
-1
-Hawaii is smack dab in the Pacific ocean. There's nothing more to it!
-
-Q: What is the smallest US state in landmass?
-Delaware
-Rhode Island
-Hawaii
-Connecticut
-2
-Rhode Island is only 1214 miles squared! That means you could fit 425 Rhode Islands in Alaska!
-
-Q: What US state has the longest coastline?
-California
-Florida
-Alaska
-Hawaii
-3
-Alaska has a whopping 33,904 miles of coastline!
-
-Q: What is the most populated US state?
-Texas
-Florida
-New York
-California
-4
-California's population is nearing 40 million. That's over 12% of the entire population of the USA.
-
-Q: What US state gets the most hurricanes?
-Florida
-Texas
-Louisiana
-Alaska
-1
-Florida has quite a history with hurricanes. Because it is near the tropics and westerly winds blow off the African coasts along the equator, Florida is quite vulnerable.
-
-Q: What US state(s) is Death Valley located in?
-Oregon
-California & Nevada
-Texas
-Arizona
-2
-Death Valley has reached a record high of 134°F and spans over 5,000 square miles (mostly in California but a small chunk in Nevada).
-
-Q: What US state is both the easternmost and westernmost state?
-New York
-Hawaii
-Alaska
-Maine
-3
-The Aleutian Islands cross longitude 180°, so Alaska can be considered the easternmost state as well as the westernmost. Alaska and, especially, the Aleutians are one of the extreme points of the United States.
-
-Q: What are the only 2 US state capitals that have rhyming names?
-Juneau & Honolulu
-Jefferson City & Carson City
-Lansing & Prancing
-Austin & Boston
-4
-Say it out loud. The second "o" in Boston is pronounced like an "I".
-
-Q: Which US state doesn't share a border with any other US state?
-Florida
-Alaska
-Michigan
-Vermont
-2
-Actually, both Alaska and Hawaii don't share a border with any other US state.
+The San Andreas Fault is California's most famous major fault.
 
 Q: What is the longest river in the world?
 The Nile
@@ -204,7 +132,7 @@ Amazon River
 Mississippi River
 Yellow River
 1
-The Amazon is considered the world's largest river by volume, but scientists have believed it is slightly shorter than Africa's Nile.
+The Nile is commonly listed as the world's longest river.
 
 Q: What is the largest island in the world?
 Madagascar
@@ -212,7 +140,7 @@ Greenland
 Great Britan
 India
 2
-Greenland (owned by the Realm of Denmark) is located in the North Atlantic and is a whopping 840 thousand miles!
+Greenland is the largest island in the world.
 
 Q: What is the coldest continent in the world?
 Europe
@@ -220,7 +148,7 @@ Australia
 Antarctica
 Arctic
 3
-Antarctica is the coldest continent in the world. Many might confuse the Arctic to be a continent but it is actually a region.
+Antarctica is the coldest continent.
 
 Q: What is the tallest mountain in the world?
 Kangchenjunga
@@ -228,39 +156,7 @@ K2
 Denali
 Mount Everest
 4
-Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas.
-
-Q: What is the longest river in the world?
-The Nile
-Amazon River
-Mississippi River
-Yellow River
-1
-The Amazon is considered the world's largest river by volume, but scientists have believed it is slightly shorter than Africa's Nile.
-
-Q: What is the largest island in the world?
-Madagascar
-Greenland
-Great Britan
-India
-2
-Greenland (owned by the Realm of Denmark) is located in the North Atlantic and is a whopping 840 thousand miles!
-
-Q: What is the coldest continent in the world?
-Europe
-Australia
-Antarctica
-Arctic
-3
-Antarctica is the coldest continent in the world. Many might confuse the Arctic to be a continent but it is actually a region.
-
-Q: What is the tallest mountain in the world?
-Kangchenjunga
-K2
-Denali
-Mount Everest
-4
-Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas.
+Mount Everest is the highest mountain above sea level.
 
 Q: What is the largest country in the world by land size?
 Russia
@@ -268,7 +164,7 @@ China
 Canada
 USA
 1
-Russia is so huge that it goes through two continents and 11 time zones!
+Russia is the largest country by land area.
 
 Q: Which country has the largest population in the world?
 India
@@ -276,39 +172,39 @@ China
 Russia
 United States
 2
-China has a population of 1.43 billion. Thats approximately 18% of the world's population!
+This bank marks China as the correct answer.
 
-Q: What is the capital of Mexico? 
+Q: What is the capital of Mexico?
 Tijuana
 San Diego
 Mexico City
 Oaxaca
 3
-Just remember that the capital of Mexico has the name in it!
+Mexico City is the capital of Mexico.
 
-Q: Where is the Eiffel Tower located? 
+Q: Where is the Eiffel Tower located?
 Egypt
 United States
 Italy
 France
 4
-The Eiffel Tower—or as the French call it, La Tour Eiffel—is one of the world’s most recognizable landmarks. The tower was designed as the centerpiece of the 1889 World's Fair in Paris and was meant to commemorate the centennial of the French Revolution.
+The Eiffel Tower is in Paris, France.
 
-Q: What is the name of the largest ocean in the world? 
+Q: What is the name of the largest ocean in the world?
 Pacific
 Indian
 Atlantic
 Arctic
 1
-The Pacific Ocean is 63.8 million squaare miles!
+The Pacific Ocean is the largest ocean on Earth.
 
-Q: What is the capital of Canada? 
+Q: What is the capital of Canada?
 Washington D.C.
 Ottawa
 Paris
 London
 2
-Ottawa is located in southeastern Ontario, on the Ottawa, Gatineau, and Rideau rivers. The area was inhabited by American Indians when it was visited by Samuel de Champlain in 1613, and the nearby rivers served traders and explorers over the next two centuries.
+Ottawa is the capital of Canada.
 
 Q: What country are the Great Pyramids of Giza located in?
 Chad
@@ -316,15 +212,15 @@ Zimbabwe
 Egypt
 United Arab Emirates
 3
-The Great Pyramid of Giza is the largest Egyptian pyramid and tomb of Fourth Dynasty pharaoh Khufu. Built in the 26th century BC during a period of around 27 years, it is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.
+The pyramids of Giza are in Egypt.
 
-Q: Which country is also called The Netherlands? 
+Q: Which country is also called The Netherlands?
 Indonesia
 Australia
 Poland
 Holland
 4
-The Netherlands consists of 12 provinces but many people use “Holland” when talking about the Netherlands. The two provinces of Noord- and Zuid-Holland together are Holland. The 12 provinces together are the Netherlands.
+Holland is often used as another name for the Netherlands.
 
 Q: What country is the Taj Mahal located?
 India
@@ -332,7 +228,7 @@ Russia
 China
 Bangladesh
 1
-The Taj Mahal, is an ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal.
+The Taj Mahal is located in India.
 
 Q: The body of the Egyptian Sphinx was based on which animal?
 Monkey
@@ -340,7 +236,7 @@ Lion
 Dog
 Cat
 2
-The sphinx, mythological creature with a lion's body and a human head, an important image in Egyptian and Greek art and legend.
+The Egyptian sphinx is shown with a lion's body.
 
 Q: How many federal states does Germany have?
 15
@@ -348,7 +244,7 @@ Q: How many federal states does Germany have?
 16
 25
 3
-As a federal system, the German Federal Republic consists of 16 federal states whose state governments partly take on their own state duties.
+Germany has 16 federal states.
 
 Q: What is the capital of Denmark?
 Horsens
@@ -356,60 +252,4 @@ Randers
 Esbjerg
 Copenhagen
 4
-Copenhagen, Denmark’s capital, sits on the coastal islands of Zealand and Amager. It’s linked to Malmo in southern Sweden by the Öresund Bridge. 
-
-Q: How many time zones does China have? 
-1
-2
-3
-4
-1
-Though China is almost as wide as the continental United States, the whole country is officially in just one time zone — Beijing time.
-
-Q: What is the smallest country in the world?
-Monaco
-Vatican City
-Naru
-Liechtenstein
-2
-Based on landmass, Vatican City is the smallest country in the world, measuring just 0.2 square miles, almost 120 times smaller than the island of Manhattan!
-
-Q: Where would you find the "Spanish Steps"?
-Spain
-Mexico
-Italy
-Brazil
-3
-The Spanish Steps in Rome, Italy, climb a steep slope between the Piazza di Spagna at the base and Piazza Trinità dei Monti, dominated by the Trinità dei Monti church, at the top.
-
-Q: What is the capital of Scotland?
-Glasgow
-Livingston
-London
-Edinburgh
-4
-Edinburgh is Scotland's compact, hilly capital. It has a medieval Old Town and elegant Georgian New Town with gardens and neoclassical buildings. Looming over the city is Edinburgh Castle, home to Scotland’s crown jewels and the Stone of Destiny, used in the coronation of Scottish rulers.
-
-Q: What is the capital of Chile?
-Santiago
-San Bernardo
-Rio de Janeiro
-Washington D.C.
-1
-Santiago, capital of Chile. It lies on the canalized Mapocho River, with views of high Andean peaks to the east. Aerial view of Santiago, Chile.
-
-Q: In what country is the Colosseum located?
-Spain
-Italy
-Cyprus
-Turkey
-2
-The Colosseum in Rome, Italy, is a large amphitheater that hosted events like gladiatorial games.
-
-Q: In what country is Christ the Redeemer located?
-Argentina
-Peru
-Mexico
-Brazil
-4
-Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil. Like Jesus Christ, the statue protects the urban environment, like a roof over your head.
+Copenhagen is Denmark's capital city.

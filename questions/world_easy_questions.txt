@@ -4,7 +4,7 @@ Amazon River
 Mississippi River
 Yellow River
 1
-The Amazon is considered the world's largest river by volume, but scientists have believed it is slightly shorter than Africa's Nile.
+The Amazon is considered the world's largest river by volume, but the Nile is commonly listed as the longest.
 
 Q: What is the largest island in the world?
 Madagascar
@@ -12,7 +12,7 @@ Greenland
 Great Britan
 India
 2
-Greenland (owned by the Realm of Denmark) is located in the North Atlantic and is a whopping 840 thousand miles!
+Greenland is the world's largest island that is not considered a continent.
 
 Q: What is the coldest continent in the world?
 Europe
@@ -20,7 +20,7 @@ Australia
 Antarctica
 Arctic
 3
-Antarctica is the coldest continent in the world. Many might confuse the Arctic to be a continent but it is actually a region.
+Antarctica is the coldest continent in the world.
 
 Q: What is the tallest mountain in the world?
 Kangchenjunga
@@ -28,7 +28,7 @@ K2
 Denali
 Mount Everest
 4
-Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas.
+Mount Everest is Earth's highest mountain above sea level.
 
 Q: What is the largest country in the world by land size?
 Russia
@@ -36,7 +36,7 @@ China
 Canada
 USA
 1
-Russia is so huge that it goes through two continents and 11 time zones!
+Russia is so huge that it stretches across Europe and Asia and spans 11 time zones.
 
 Q: Which country has the largest population in the world?
 India
@@ -44,39 +44,39 @@ China
 Russia
 United States
 2
-China has a population of 1.43 billion. Thats approximately 18% of the world's population!
+This bank marks China as the correct answer.
 
-Q: What is the capital of Mexico? 
+Q: What is the capital of Mexico?
 Tijuana
 San Diego
 Mexico City
 Oaxaca
 3
-Just remember that the capital of Mexico has the name in it!
+Mexico City is the capital of Mexico.
 
-Q: Where is the Eiffel Tower located? 
+Q: Where is the Eiffel Tower located?
 Egypt
 United States
 Italy
 France
 4
-The Eiffel Tower—or as the French call it, La Tour Eiffel—is one of the world’s most recognizable landmarks. The tower was designed as the centerpiece of the 1889 World's Fair in Paris and was meant to commemorate the centennial of the French Revolution.
+The Eiffel Tower is one of the most recognizable landmarks in Paris, France.
 
-Q: What is the name of the largest ocean in the world? 
+Q: What is the name of the largest ocean in the world?
 Pacific
 Indian
 Atlantic
 Arctic
 1
-The Pacific Ocean is 63.8 million squaare miles!
+The Pacific Ocean is the largest and deepest ocean on Earth.
 
-Q: What is the capital of Canada? 
+Q: What is the capital of Canada?
 Washington D.C.
 Ottawa
 Paris
 London
 2
-Ottawa is located in southeastern Ontario, on the Ottawa, Gatineau, and Rideau rivers. The area was inhabited by American Indians when it was visited by Samuel de Champlain in 1613, and the nearby rivers served traders and explorers over the next two centuries.
+Ottawa is located in southeastern Ontario.
 
 Q: What country are the Great Pyramids of Giza located in?
 Chad
@@ -84,15 +84,15 @@ Zimbabwe
 Egypt
 United Arab Emirates
 3
-The Great Pyramid of Giza is the largest Egyptian pyramid and tomb of Fourth Dynasty pharaoh Khufu. Built in the 26th century BC during a period of around 27 years, it is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.
+The Great Pyramids of Giza are located in Egypt.
 
-Q: Which country is also called The Netherlands? 
+Q: Which country is also called The Netherlands?
 Indonesia
 Australia
 Poland
 Holland
 4
-The Netherlands consists of 12 provinces but many people use “Holland” when talking about the Netherlands. The two provinces of Noord- and Zuid-Holland together are Holland. The 12 provinces together are the Netherlands.
+Holland is often used informally to refer to the Netherlands.
 
 Q: What country is the Taj Mahal located?
 India
@@ -100,7 +100,7 @@ Russia
 China
 Bangladesh
 1
-The Taj Mahal, is an ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal.
+The Taj Mahal is in Agra, India.
 
 Q: The body of the Egyptian Sphinx was based on which animal?
 Monkey
@@ -108,7 +108,7 @@ Lion
 Dog
 Cat
 2
-The sphinx, mythological creature with a lion's body and a human head, an important image in Egyptian and Greek art and legend.
+The sphinx is traditionally shown with a lion's body and a human head.
 
 Q: How many federal states does Germany have?
 15
@@ -116,7 +116,7 @@ Q: How many federal states does Germany have?
 16
 25
 3
-As a federal system, the German Federal Republic consists of 16 federal states whose state governments partly take on their own state duties.
+Germany consists of 16 federal states.
 
 Q: What is the capital of Denmark?
 Horsens
@@ -124,23 +124,23 @@ Randers
 Esbjerg
 Copenhagen
 4
-Copenhagen, Denmark’s capital, sits on the coastal islands of Zealand and Amager. It’s linked to Malmo in southern Sweden by the Öresund Bridge. 
+Copenhagen is the capital of Denmark.
 
-Q: How many time zones does China have? 
+Q: How many time zones does China have?
 1
 2
 3
 4
 1
-Though China is almost as wide as the continental United States, the whole country is officially in just one time zone — Beijing time.
+Though China is almost as wide as the continental United States, the whole country officially uses one time zone: Beijing time.
 
 Q: What is the smallest country in the world?
 Monaco
 Vatican City
-Naru
+Nauru
 Liechtenstein
 2
-Based on landmass, Vatican City is the smallest country in the world, measuring just 0.2 square miles, almost 120 times smaller than the island of Manhattan!
+Vatican City is the smallest country in the world by area.
 
 Q: Where would you find the "Spanish Steps"?
 Spain
@@ -148,7 +148,7 @@ Mexico
 Italy
 Brazil
 3
-The Spanish Steps in Rome, Italy, climb a steep slope between the Piazza di Spagna at the base and Piazza Trinità dei Monti, dominated by the Trinità dei Monti church, at the top.
+The Spanish Steps are in Rome, Italy.
 
 Q: What is the capital of Scotland?
 Glasgow
@@ -156,7 +156,7 @@ Livingston
 London
 Edinburgh
 4
-Edinburgh is Scotland's compact, hilly capital. It has a medieval Old Town and elegant Georgian New Town with gardens and neoclassical buildings. Looming over the city is Edinburgh Castle, home to Scotland’s crown jewels and the Stone of Destiny, used in the coronation of Scottish rulers.
+Edinburgh is Scotland's capital city.
 
 Q: What is the capital of Chile?
 Santiago
@@ -164,7 +164,7 @@ San Bernardo
 Rio de Janeiro
 Washington D.C.
 1
-Santiago, capital of Chile. It lies on the canalized Mapocho River, with views of high Andean peaks to the east. Aerial view of Santiago, Chile.
+Santiago is the capital and largest city of Chile.
 
 Q: In what country is the Colosseum located?
 Spain
@@ -172,7 +172,7 @@ Italy
 Cyprus
 Turkey
 2
-The Colosseum in Rome, Italy, is a large amphitheater that hosted events like gladiatorial games.
+The Colosseum is in Rome, Italy.
 
 Q: In what country is the Great Wall of China located?
 United States of America
@@ -180,7 +180,7 @@ United Kingdom
 China
 Mongolia
 3
-As the name suggests, the Great Wall of China is in China!
+As the name suggests, the Great Wall of China is in China.
 
 Q: In what country is Christ the Redeemer located?
 Argentina
@@ -188,4 +188,68 @@ Peru
 Mexico
 Brazil
 4
-Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil. Like Jesus Christ, the statue protects the urban environment, like a roof over your head.
+Christ the Redeemer overlooks Rio de Janeiro, Brazil.
+
+Q: What is the capital of Japan?
+Tokyo
+Kyoto
+Osaka
+Nagoya
+1
+Tokyo is the capital and largest city of Japan.
+
+Q: Which desert is the largest hot desert in the world?
+Gobi
+Sahara
+Kalahari
+Arabian
+2
+The Sahara is the largest hot desert in the world.
+
+Q: Which country is home to Machu Picchu?
+Chile
+Bolivia
+Peru
+Ecuador
+3
+Machu Picchu is a famous Incan site in Peru.
+
+Q: What is the capital of Australia?
+Sydney
+Melbourne
+Perth
+Canberra
+4
+Canberra, not Sydney or Melbourne, is the capital of Australia.
+
+Q: Which continent is Egypt primarily part of?
+Africa
+Europe
+Asia
+South America
+1
+Egypt is mostly in northeastern Africa, though the Sinai Peninsula is in Asia.
+
+Q: Which country is famous for tulips and windmills?
+Belgium
+Netherlands
+Switzerland
+Austria
+2
+The Netherlands is widely associated with tulips, windmills, and canals.
+
+Q: What sea separates Europe and Africa at the Strait of Gibraltar?
+North Sea
+Black Sea
+Mediterranean Sea
+Arabian Sea
+3
+The Strait of Gibraltar links the Atlantic Ocean and the Mediterranean Sea.
+
+Q: What is the longest mountain range on land?
+Rocky Mountains
+Himalayas
+Alps
+Andes
+4
+The Andes are the longest continental mountain range in the world.

@@ -4,7 +4,7 @@ Q: How many countries are present in Africa?
 78
 45
 1
-About 27% of the world's countries are located on just Africa alone.
+About 27% of the world's countries are located in Africa.
 
 Q: What mountain range has the most mountains?
 Himalayas
@@ -12,15 +12,15 @@ Andes
 Rocky Mountains
 Alps
 2
-The Andes has the most mountains whereas the Himalayas has the tallest!
+The Andes has the most mountains whereas the Himalayas has the tallest peaks.
 
-Q: What is Belgium’s nickname?
+Q: What is Belgium's nickname?
 The Bread Basket of Europe
 Battlefield of Europe
 Land of Chocolate
 Land of Milk and Honey
 2
-Belgium earned the nickname the “Battlefield of Europe” for being a battleground for historic conflicts between larger powers, including the Battle of Waterloo in the 19th century and the two world wars in the 20th century.
+Belgium earned the nickname "Battlefield of Europe" because many major European conflicts were fought there.
 
 Q: Which ocean lies between Africa and Australia and south of Asia?
 Pacific
@@ -28,7 +28,7 @@ Atlantic
 Indian
 Arctic
 3
-A key giveaway to this question is "the south of Asia". The only ocean to the south of Asia is the Indian ocean.
+The ocean south of Asia and between Africa and Australia is the Indian Ocean.
 
 Q: What is the country with the most number of islands?
 Canada
@@ -36,7 +36,7 @@ Norway
 Finland
 Sweden
 4
-The Stockholm Archipelago (Swedish: Stockholms skärgård) is the largest archipelago in Sweden, and the second-largest archipelago in the Baltic Sea. There are in total 267,570 islands in Sweden!
+Sweden is often credited with having the most islands of any country.
 
 Q: What country has the most lakes?
 Canada
@@ -44,7 +44,7 @@ Russia
 USA
 China
 1
-Canada has approximately 880 thousand lakes!
+Canada has an enormous number of lakes, far more than any other country.
 
 Q: How many countries sit on the equator?
 9
@@ -52,4 +52,204 @@ Q: How many countries sit on the equator?
 13
 15
 3
-The Equator passes through 13 countries: Ecuador, Colombia, Brazil, Sao Tome & Principe, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda, Kenya, Somalia, Maldives, Indonesia and Kiribati. 
+The Equator passes through 13 countries.
+
+Q: Which country has the most active volcanoes?
+Indonesia
+Japan
+Chile
+Iceland
+1
+Indonesia sits on the Pacific Ring of Fire and has more active volcanoes than any other country.
+
+Q: How many time zones does Russia span?
+9
+11
+7
+13
+2
+Russia stretches across 11 time zones.
+
+Q: Which country is Greenland part of?
+Canada
+Iceland
+Norway
+Denmark
+4
+Greenland is an autonomous territory within the Kingdom of Denmark.
+
+Q: What is the deepest ocean trench in the world?
+Java Trench
+Tonga Trench
+Puerto Rico Trench
+Mariana Trench
+4
+The Mariana Trench contains the deepest known point in Earth's oceans.
+
+Q: Which country has more pyramids than Egypt?
+Algeria
+Sudan
+Libya
+Ethiopia
+2
+Sudan is home to more pyramids than Egypt, though most are smaller.
+
+Q: What is the world's largest coral reef system?
+Belize Barrier Reef
+New Caledonia Barrier Reef
+Great Barrier Reef
+Red Sea Coral Reef
+3
+Australia's Great Barrier Reef is the largest coral reef system in the world.
+
+Q: Which city spans both Europe and Asia?
+Athens
+Cairo
+Moscow
+Istanbul
+4
+Istanbul is split by the Bosporus, with parts in both Europe and Asia.
+
+Q: What is the only sea with no land border?
+Sargasso Sea
+Black Sea
+Arabian Sea
+Caribbean Sea
+1
+The Sargasso Sea is defined by ocean currents rather than surrounding coastlines.
+
+Q: Which country borders both the Atlantic Ocean and the Indian Ocean?
+Namibia
+South Africa
+Mozambique
+Madagascar
+2
+South Africa meets the Atlantic on its west coast and the Indian Ocean on its south and east coasts.
+
+Q: What is the driest continent on Earth?
+Australia
+Europe
+Antarctica
+Africa
+3
+Antarctica is both the coldest and driest continent on Earth.
+
+Q: Which river flows through the most countries in Europe?
+Rhine
+Volga
+Seine
+Danube
+4
+The Danube passes through or borders more European countries than any other river.
+
+Q: What is the largest landlocked country in the world?
+Kazakhstan
+Mongolia
+Chad
+Bolivia
+1
+Kazakhstan is the largest country with no ocean coastline.
+
+Q: Which country contains most of the Amazon rainforest?
+Peru
+Brazil
+Colombia
+Venezuela
+2
+Most of the Amazon rainforest lies within Brazil.
+
+Q: What is the southernmost capital city of a sovereign country?
+Buenos Aires
+Canberra
+Santiago
+Wellington
+4
+Wellington, New Zealand is the southernmost capital of a sovereign state.
+
+Q: What is the tallest mountain outside Asia?
+Denali
+Mount Kilimanjaro
+Aconcagua
+Mount Elbrus
+3
+Aconcagua in Argentina is the highest mountain outside Asia.
+
+Q: Which country has the world's oldest continuously used national flag?
+Denmark
+Austria
+Switzerland
+San Marino
+1
+Denmark's Dannebrog is widely regarded as the oldest continuously used national flag.
+
+Q: What strait separates Europe from Africa?
+Bosporus Strait
+Bering Strait
+Strait of Gibraltar
+Strait of Hormuz
+3
+The Strait of Gibraltar lies between Spain and Morocco.
+
+Q: How many official languages does South Africa have?
+9
+11
+13
+15
+2
+South Africa recognizes 11 official languages.
+
+Q: What is the largest country entirely in the Southern Hemisphere?
+Argentina
+Australia
+South Africa
+Brazil
+2
+Australia is the largest country located completely south of the Equator.
+
+Q: Which African lake has the largest surface area?
+Lake Tanganyika
+Lake Victoria
+Lake Malawi
+Lake Turkana
+2
+Lake Victoria is Africa's largest lake by surface area.
+
+Q: Which country is home to Geirangerfjord and Naeroyfjord?
+Sweden
+Finland
+Norway
+Iceland
+3
+Both famous fjords are in Norway.
+
+Q: What is the longest river in Europe?
+Danube
+Rhine
+Dnieper
+Volga
+4
+The Volga is Europe's longest river.
+
+Q: The island of Tasmania belongs to which country?
+New Zealand
+Indonesia
+Papua New Guinea
+Australia
+4
+Tasmania is an island state of Australia.
+
+Q: What is the highest waterfall in the world?
+Tugela Falls
+Kaieteur Falls
+Yosemite Falls
+Angel Falls
+4
+Angel Falls in Venezuela is the tallest waterfall in the world.
+
+Q: Which desert stretches across much of northern China and southern Mongolia?
+Taklamakan
+Sahara
+Patagonian
+Gobi
+4
+The Gobi Desert spans parts of northern China and southern Mongolia.

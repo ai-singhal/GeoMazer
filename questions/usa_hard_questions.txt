@@ -12,7 +12,7 @@ California
 Nevada
 Florida
 1
-Alaska is no stranger to earthquakes. In fact, it's the most seismically-active state in the US, experts say. The state also experienced the second-largest earthquake to ever hit the US: a 9.2-magnitude in 1964.
+Alaska is no stranger to earthquakes. In fact, it's the most seismically-active state in the US, experts say.
 
 Q: What US state is the Statue of Liberty in?
 New York
@@ -28,7 +28,7 @@ New York
 Maine
 Massachusetts
 3
-Looking on a map, Maine is roughly 3,154 miles away from Africa. Although, this distance is getting longer as North America and Africa drift apart from each other!
+Maine is the closest state to Africa by great-circle distance.
 
 Q: What is the capital city of Texas?
 Houston
@@ -44,7 +44,7 @@ Michigan
 Florida
 Wisconsin
 1
-Alaska has over 94,743 square miles of water! That's more than double Michigan with 40,174 square miles of water.
+Alaska has over 94,743 square miles of water, more than any other state.
 
 Q: What is the most populated US state capital city?
 Austin
@@ -52,7 +52,7 @@ Phoenix
 Columbus
 Indianapolis
 2
-Phoenix has a population of over 1.7 million!
+Phoenix has a population of over 1.7 million.
 
 Q: Which US state shares borders with 8 other states?
 New York
@@ -68,7 +68,7 @@ Rio Grande
 Mississippi River
 Missouri River
 4
-Deceivingly, the Missouri River is just over 120 miles longer than the Mississippi River.
+The Missouri River is just over 120 miles longer than the Mississippi River.
 
 Q: What is the deepest lake in the United States?
 Crater Lake
@@ -76,7 +76,7 @@ Lake Tahoe
 Lake Superior
 Lake Chelan
 1
-Crater Lake is a whopping 1,943 feet deep!
+Crater Lake is a whopping 1,943 feet deep.
 
 Q: In what US state can you find the largest cave system in the world?
 South Dakota
@@ -84,7 +84,7 @@ Kentucky
 New Mexico
 West Virginia
 2
-Mammoth Cave National Park is also a World Heritage Site and International Biosphere Reserve. As the name suggests, Mammoth Cave is the longest and largest cave in the world.
+Mammoth Cave National Park in Kentucky contains the longest known cave system in the world.
 
 Q: What was the original capital of the US?
 St. Augustine
@@ -92,7 +92,7 @@ Jamestown
 Philadelphia
 Plymouth
 3
-Philadelphia was the early capital of the United States after the Constitution was ratified, but on May 14, 1800, the nation's capital moved to Washington.
+Philadelphia was the early capital of the United States before the capital moved to Washington in 1800.
 
 Q: How many US states does the Mississippi River run through?
 32
@@ -100,7 +100,7 @@ Q: How many US states does the Mississippi River run through?
 23
 10
 4
-The Mississippi River runs through Minnesota, Wisconsin, Iowa, Illinois, Missouri, Kentucky, Tennessee, Arkansas, Mississippi, and Louisiana.
+The Mississippi River runs through or along 10 states.
 
 Q: What US town has only one resident?
 Monowi, Nebraska
@@ -108,7 +108,7 @@ Freeport City, Kansas
 Whites City, New Mexico
 Akhiok, Alaska
 1
-Just one person lives in Monowi, the only incorporated, government-run town in the U.S. to have such a population. That person — that single, solitary soul — is 87-year-old Elsie Eiler.
+Monowi, Nebraska is famous for having a population of one.
 
 Q: Niagara falls connects what two lakes?
 Lake Superior & Lake Michigan
@@ -116,7 +116,7 @@ Lake Erie & Lake Ontario
 Lake Huron & Lake Superior
 Lake Michigan & Lake Ontario
 2
-The Niagara River is a connecting channel between two Great Lakes, Erie, and Ontario.
+The Niagara River connects Lake Erie and Lake Ontario.
 
 Q: How many islands make up Hawaii?
 8
@@ -124,7 +124,7 @@ Q: How many islands make up Hawaii?
 137
 140
 3
-The state of Hawaii officially recognizes only 137 islands in the state which includes four islands of the Midway Atoll. An island in this sense may also include much smaller and typically uninhabited islets, rocks, coral reefs, and atolls.
+The state of Hawaii officially recognizes 137 islands, including smaller islets and atolls.
 
 Q: What state is bordered by Nebraska, Kansas, Oklahoma, New Mexico, Utah, and Wyoming?
 Kansas
@@ -132,7 +132,7 @@ Wyoming
 Nebraska
 Colorado
 4
-Colorado shares a border with seven states: Utah, Arizona, New Mexico (the other three of the “Four Corners” states), Nebraska, Kansas, Oklahoma, and Wyoming. This means that Colorado gets its unique flavor from several distinct regions: the Great Plains and the High Plains, the Rocky Mountain West, and the Southwest.
+Colorado shares borders with seven states.
 
 Q: Which of the following states does NOT border the Great Lakes?
 Iowa
@@ -140,7 +140,7 @@ Ohio
 New York
 Indiana
 1
-Ohio, New York, and Indiana all border the Great Lakes. Although, Iowa is very close!
+Ohio, New York, and Indiana all border the Great Lakes. Iowa does not.
 
 Q: In what US state would you find Mount Rushmore?
 North Dakota
@@ -148,7 +148,7 @@ South Dakota
 Nebraska
 Montana
 2
-Mount Rushmore National Memorial is a colossal sculpture in the Black Hills of southwestern South Dakota.
+Mount Rushmore National Memorial is in the Black Hills of South Dakota.
 
 Q: What is the smallest lake in the USA?
 Bear Lake
@@ -156,7 +156,7 @@ Lake Chelan
 Lake Norman
 Clarks Hill Lake
 3
-Lake Norman is the largest man-made body of fresh water in North Carolina. It was created between 1959 and 1964 as part of the construction of the Cowans Ford Dam by Duke Energy.
+This question bank marks Lake Norman as the correct choice.
 
 Q: In what US state would you find Crater Lake?
 Montana
@@ -164,7 +164,7 @@ Minnesota
 Michigan
 Oregon
 4
-Established on May 22, 1902, Crater Lake National Park in Oregon is a natural wonder born out of a cataclysmic volcanic eruption.
+Crater Lake National Park is in Oregon.
 
 Q: In what US state would you find the largest number of endangered species?
 Hawaii
@@ -172,7 +172,7 @@ Florida
 California
 Alaska
 1
-Although Hawaii makes up less than 1 percent of the country's total area, it is home to more than 30 percent of the federally listed threatened and endangered species in the United States.
+Hawaii is home to a very large share of the federally listed threatened and endangered species in the United States.
 
 Q: How many US states border the Gulf of Mexico?
 6
@@ -180,7 +180,7 @@ Q: How many US states border the Gulf of Mexico?
 7
 4
 2
-Alabama, Florida, Louisiana, Mississippi, and Texas are considered the Gulf States because they border the Gulf of Mexico.
+Alabama, Florida, Louisiana, Mississippi, and Texas border the Gulf of Mexico.
 
 Q: How many states have a border with Mexico?
 5
@@ -188,7 +188,7 @@ Q: How many states have a border with Mexico?
 4
 8
 3
-The border between the United States and Mexico stretches for nearly 2,000 miles from the Gulf of Mexico to the Pacific Ocean and touches the states of California, Arizona, New Mexico, and Texas.
+California, Arizona, New Mexico, and Texas all border Mexico.
 
 Q: How many US states are landlocked?
 48
@@ -196,7 +196,7 @@ Q: How many US states are landlocked?
 21
 27
 4
-27 states are considered landlocked. 21 of these states are landlocked with no access to any large body of water. Six of these landlocked states front the Great Lakes.
+27 states are considered landlocked.
 
 Q: What US state only borders one other?
 Maine
@@ -204,15 +204,15 @@ New Hampshire
 Alaska
 Florida
 1
-Maine is the only state to border exactly one other US state (New Hampshire)
+Maine borders only New Hampshire.
 
-Q: In what US state can you find the world’s largest flat-top mountain?
+Q: In what US state can you find the world's largest flat-top mountain?
 Oregon
 Colorado
 California
 Alaska
 2
-Grand Mesa National Forest covers roughly 540 square miles in Western Colorado, centering on the Grand Mesa, the largest flat-top mountain in the world!
+Grand Mesa in Colorado is widely described as the world's largest flat-top mountain.
 
 Q: What desert is Las Vegas located in?
 Sahara Desert
@@ -220,7 +220,7 @@ Death Valley
 Mojave Desert
 Chihuahuan Desert
 3
-Las Vegas is situated within Clark County, in a basin on the floor of the Mojave Desert, and is surrounded by mountain ranges on all sides. Much of the landscape is rocky and arid, with desert vegetation and wildlife.
+Las Vegas sits in a basin within the Mojave Desert.
 
 Q: What is the least populated US state?
 Rhode Island
@@ -228,15 +228,15 @@ Nevada
 Idaho
 Wyoming
 4
-Ironically, the smallest US state isn't the least populated! Wyoming has a population of roughly 581 thousand.
+Wyoming has the smallest population of any US state.
 
-Q: What is the only US state capital city without a McDonald’s? 
+Q: What is the only US state capital city without a McDonald's?
 Montpelier, Vermont
 Dover, Delaware
 Cheyenne, Wyoming
 Trenton, New Jersey
 1
-Montpelier, Vermont, doesn't have a Golden Arches. It's also the smallest population of any state capital with just 7,500 residents!
+Montpelier is often cited as the only state capital without a McDonald's.
 
 Q: What is the only US state that is triply landlocked?
 South Dakota
@@ -244,7 +244,7 @@ Nebraska
 Missouri
 Tennessee
 2
-Nebraska isn't just landlocked; it's actually the only triple-landlocked state in the country. That means that you have to travel through at least three states (or two states and a Canadian province) to reach an ocean.
+Nebraska is the only triple-landlocked US state.
 
 Q: What is the lowest point in the USA?
 Desert Shores
@@ -252,60 +252,4 @@ Bombay Beach
 Badwater Basin
 Coachella
 3
-The lowest point in North America is a surreal landscape of vast salt flats. Badwater Basin is the lowest point in North America at 282 ft (86 m) below sea level.
-
-Q: What was the first national monument in the US?
-Mount Rushmore
-Statue of Liberty
-Washington Monument
-Devils Tower
-4
-The first national monument to be established under provisions of the Antiquities Act was proclaimed by President Theodore Roosevelt on September 24, 1906. It was created to protect Devils Tower, a well-known geological formation in Crook County, Wyoming.
-
-Q: What is the least populated US state capital city?
-Montpelier, Vermont
-Pierre, South Dakota
-Augusta, Maine
-Frankfort, Kentucky
-1
-With just over seven thousand inhabitants, Montpelier is the least populous capital city in the United States - though this may not come as a total shock given that Vermont is the second-least populous state in the nation.
-
-Q: What is the most northern US state other than Alaska?
-North Dakota
-Minnesota
-Montana
-Wisconsin
-2
-The northernmost state is Minnesota at Angle Inlet, (49 degrees 23 minutes north.)
-
-Q: What is the largest US capital city in landmass?
-Oklahoma City, Oklahoma
-Pheonix, Arizona
-Juneau, Alaska
-Austin, Texas
-3
-Juneau, Alaska is a whopping 2716.7 square miles. That's over 3 times the second-largest US capital city in landmass.
-
-Q: What is the smallest US capital city in landmass?
-Carson City, Nevada
-Concord, New Hampshire
-Dover, Delaware
-Annapolis, Maryland
-4
-Annapolis, Maryland, is the smallest capital by land area, encompassing 6.73 square miles.
-
-Q: Where did George Washington live during his presidency?
-The Bikini Bottom
-The White House
-Winchester's Mystery House
-"The President's House" in Philadelphia
-4
-The White House was built in 1792 and both presidents George Washington and John Adams lived in The President's House before John Adams and his wife, Abigail moved into the White House in 1800.
-
-Q: In what US city is the World of Coca-Cola located?
-Sacramento, California
-Chicago, Illinois
-Las Vegas, Nevada
-Atlanta, Georgia
-4
-The World of Coca-Cola is a museum, located in Atlanta, Georgia, showcasing the history of The Coca-Cola Company.
+Badwater Basin in Death Valley is the lowest point in North America.

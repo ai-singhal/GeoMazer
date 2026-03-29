@@ -4,7 +4,7 @@ Mount Everest
 Half Dome
 Mount Shasta
 1
-Alaska has some of the tallest mountains in the country. It makes sense for the tallest mountain in the US to be in Alaska.
+Denali is the highest peak in the United States.
 
 Q: What US state gets the most earthquakes?
 Alaska
@@ -12,7 +12,7 @@ California
 Nevada
 Florida
 1
-Alaska is no stranger to earthquakes. In fact, it's the most seismically-active state in the US, experts say. The state also experienced the second-largest earthquake to ever hit the US: a 9.2-magnitude in 1964.
+Alaska experiences more earthquakes than any other US state.
 
 Q: What US state is the Statue of Liberty in?
 New York
@@ -20,7 +20,7 @@ New Jersey
 California
 Both New York and New Jersey
 4
-A national monument of New Jersey and New York, the Statue of Liberty is arguably America's greatest symbol of freedom and opportunity.
+The Statue of Liberty is tied to both New York and New Jersey.
 
 Q: What US state is closest to Africa?
 Florida
@@ -28,7 +28,7 @@ New York
 Maine
 Massachusetts
 3
-Looking on a map, Maine is roughly 3,154 miles away from Africa. Although, this distance is getting longer as North America and Africa drift apart from each other!
+Maine is the closest US state to Africa by great-circle distance.
 
 Q: What is the capital city of Texas?
 Houston
@@ -36,7 +36,7 @@ Austin
 San Antonio
 Dallas
 2
-Texas is also known as the Lone Star State because of the lone star on its state flag.
+Austin is the capital of Texas.
 
 Q: What US state has the most water within it?
 Alaska
@@ -44,7 +44,7 @@ Michigan
 Florida
 Wisconsin
 1
-Alaska has over 94,743 square miles of water! That's more than double Michigan with 40,174 square miles of water.
+Alaska has more inland water than any other state.
 
 Q: What is the most populated US state capital city?
 Austin
@@ -52,7 +52,7 @@ Phoenix
 Columbus
 Indianapolis
 2
-Phoenix has a population of over 1.7 million!
+Phoenix is the most populous state capital in the United States.
 
 Q: Which US state shares borders with 8 other states?
 New York
@@ -60,7 +60,7 @@ West Virginia
 Tennessee
 Kentucky
 3
-Tennessee borders Kentucky, Virginia, North Carolina, Georgia, Alabama, Mississippi, Arkansas, and Missouri.
+Tennessee borders eight other states.
 
 Q: What is the longest river in the United States?
 Yukon River
@@ -68,7 +68,7 @@ Rio Grande
 Mississippi River
 Missouri River
 4
-Deceivingly, the Missouri River is just over 120 miles longer than the Mississippi River.
+The Missouri River is longer than the Mississippi River.
 
 Q: What is the deepest lake in the United States?
 Crater Lake
@@ -76,7 +76,7 @@ Lake Tahoe
 Lake Superior
 Lake Chelan
 1
-Crater Lake is a whopping 1,943 feet deep!
+Crater Lake is the deepest lake in the United States.
 
 Q: In what US state can you find the largest cave system in the world?
 South Dakota
@@ -84,7 +84,7 @@ Kentucky
 New Mexico
 West Virginia
 2
-Mammoth Cave National Park is also a World Heritage Site and International Biosphere Reserve. As the name suggests, Mammoth Cave is the longest and largest cave in the world.
+Mammoth Cave in Kentucky is the world's longest known cave system.
 
 Q: What was the original capital of the US?
 St. Augustine
@@ -92,7 +92,7 @@ Jamestown
 Philadelphia
 Plymouth
 3
-Philadelphia was the early capital of the United States after the Constitution was ratified, but on May 14, 1800, the nation's capital moved to Washington.
+Philadelphia served as an early capital of the United States.
 
 Q: How many US states does the Mississippi River run through?
 32
@@ -100,7 +100,7 @@ Q: How many US states does the Mississippi River run through?
 23
 10
 4
-The Mississippi River runs through Minnesota, Wisconsin, Iowa, Illinois, Missouri, Kentucky, Tennessee, Arkansas, Mississippi, and Louisiana.
+The Mississippi River runs through or along 10 states.
 
 Q: What US town has only one resident?
 Monowi, Nebraska
@@ -108,7 +108,7 @@ Freeport City, Kansas
 Whites City, New Mexico
 Akhiok, Alaska
 1
-Just one person lives in Monowi, the only incorporated, government-run town in the U.S. to have such a population. That person — that single, solitary soul — is 87-year-old Elsie Eiler.
+Monowi is known for having a population of one.
 
 Q: Niagara falls connects what two lakes?
 Lake Superior & Lake Michigan
@@ -116,7 +116,7 @@ Lake Erie & Lake Ontario
 Lake Huron & Lake Superior
 Lake Michigan & Lake Ontario
 2
-The Niagara River is a connecting channel between two Great Lakes, Erie, and Ontario.
+The Niagara River connects Lake Erie and Lake Ontario.
 
 Q: How many islands make up Hawaii?
 8
@@ -124,79 +124,7 @@ Q: How many islands make up Hawaii?
 137
 140
 3
-The state of Hawaii officially recognizes only 137 islands in the state which includes four islands of the Midway Atoll. An island in this sense may also include much smaller and typically uninhabited islets, rocks, coral reefs, and atolls.
-
-Q: What state is bordered by Nebraska, Kansas, Oklahoma, New Mexico, Utah, and Wyoming?
-Kansas
-Wyoming
-Nebraska
-Colorado
-4
-Colorado shares a border with seven states: Utah, Arizona, New Mexico (the other three of the “Four Corners” states), Nebraska, Kansas, Oklahoma, and Wyoming. This means that Colorado gets its unique flavor from several distinct regions: the Great Plains and the High Plains, the Rocky Mountain West, and the Southwest.
-
-Q: Which of the following states does NOT border the Great Lakes?
-Iowa
-Ohio
-New York
-Indiana
-1
-Ohio, New York, and Indiana all border the Great Lakes. Although, Iowa is very close!
-
-Q: In what US state would you find Mount Rushmore?
-North Dakota
-South Dakota
-Nebraska
-Montana
-2
-Mount Rushmore National Memorial is a colossal sculpture in the Black Hills of southwestern South Dakota.
-
-Q: What is the smallest lake in the USA?
-Bear Lake
-Lake Chelan
-Lake Norman
-Clarks Hill Lake
-3
-Lake Norman is the largest man-made body of fresh water in North Carolina. It was created between 1959 and 1964 as part of the construction of the Cowans Ford Dam by Duke Energy.
-
-Q: In what US state would you find Crater Lake?
-Montana
-Minnesota
-Michigan
-Oregon
-4
-Established on May 22, 1902, Crater Lake National Park in Oregon is a natural wonder born out of a cataclysmic volcanic eruption.
-
-Q: In what US state would you find the largest number of endangered species?
-Hawaii
-Florida
-California
-Alaska
-1
-Although Hawaii makes up less than 1 percent of the country's total area, it is home to more than 30 percent of the federally listed threatened and endangered species in the United States.
-
-Q: How many US states border the Gulf of Mexico?
-6
-5
-7
-4
-2
-Alabama, Florida, Louisiana, Mississippi, and Texas are considered the Gulf States because they border the Gulf of Mexico.
-
-Q: How many states have a border with Mexico?
-5
-3
-4
-8
-3
-The border between the United States and Mexico stretches for nearly 2,000 miles from the Gulf of Mexico to the Pacific Ocean and touches the states of California, Arizona, New Mexico, and Texas.
-
-Q: How many US states are landlocked?
-48
-30
-21
-27
-4
-27 states are considered landlocked. 21 of these states are landlocked with no access to any large body of water. Six of these landlocked states front the Great Lakes.
+Hawaii officially recognizes 137 islands.
 
 Q: How many countries are present in Africa?
 54
@@ -204,7 +132,7 @@ Q: How many countries are present in Africa?
 78
 45
 1
-About 27% of the world's countries are located on just Africa alone.
+Africa has 54 recognized sovereign countries.
 
 Q: What mountain range has the most mountains?
 Himalayas
@@ -212,15 +140,15 @@ Andes
 Rocky Mountains
 Alps
 2
-The Andes has the most mountains whereas the Himalayas has the tallest!
+The Andes are often described as having the most mountains.
 
-Q: What is Belgium’s nickname?
+Q: What is Belgium's nickname?
 The Bread Basket of Europe
 Battlefield of Europe
 Land of Chocolate
 Land of Milk and Honey
 2
-Belgium earned the nickname the “Battlefield of Europe” for being a battleground for historic conflicts between larger powers, including the Battle of Waterloo in the 19th century and the two world wars in the 20th century.
+Belgium is often called the "Battlefield of Europe."
 
 Q: Which ocean lies between Africa and Australia and south of Asia?
 Pacific
@@ -228,7 +156,7 @@ Atlantic
 Indian
 Arctic
 3
-A key giveaway to this question is "the south of Asia". The only ocean to the south of Asia is the Indian ocean.
+The Indian Ocean fits all three location clues.
 
 Q: What is the country with the most number of islands?
 Canada
@@ -236,7 +164,7 @@ Norway
 Finland
 Sweden
 4
-The Stockholm Archipelago (Swedish: Stockholms skärgård) is the largest archipelago in Sweden, and the second-largest archipelago in the Baltic Sea. There are in total 267,570 islands in Sweden!
+Sweden is often credited with having the most islands.
 
 Q: What country has the most lakes?
 Canada
@@ -244,7 +172,7 @@ Russia
 USA
 China
 1
-Canada has approximately 880 thousand lakes!
+Canada has more lakes than any other country.
 
 Q: How many countries sit on the equator?
 9
@@ -252,4 +180,76 @@ Q: How many countries sit on the equator?
 13
 15
 3
-The Equator passes through 13 countries: Ecuador, Colombia, Brazil, Sao Tome & Principe, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda, Kenya, Somalia, Maldives, Indonesia and Kiribati.
+The Equator passes through 13 countries.
+
+Q: Which country has the most active volcanoes?
+Indonesia
+Japan
+Chile
+Iceland
+1
+Indonesia has the most active volcanoes in the world.
+
+Q: How many time zones does Russia span?
+9
+11
+7
+13
+2
+Russia spans 11 time zones.
+
+Q: Which country is Greenland part of?
+Canada
+Iceland
+Norway
+Denmark
+4
+Greenland is an autonomous territory within the Kingdom of Denmark.
+
+Q: What is the deepest ocean trench in the world?
+Java Trench
+Tonga Trench
+Puerto Rico Trench
+Mariana Trench
+4
+The Mariana Trench is the deepest ocean trench known.
+
+Q: Which country has more pyramids than Egypt?
+Algeria
+Sudan
+Libya
+Ethiopia
+2
+Sudan has more pyramids than Egypt.
+
+Q: What is the world's largest coral reef system?
+Belize Barrier Reef
+New Caledonia Barrier Reef
+Great Barrier Reef
+Red Sea Coral Reef
+3
+The Great Barrier Reef off Australia is the largest coral reef system in the world.
+
+Q: Which city spans both Europe and Asia?
+Athens
+Cairo
+Moscow
+Istanbul
+4
+Istanbul extends across both Europe and Asia.
+
+Q: What is the only sea with no land border?
+Sargasso Sea
+Black Sea
+Arabian Sea
+Caribbean Sea
+1
+The Sargasso Sea is bounded by currents, not coastlines.
+
+Q: Which country borders both the Atlantic Ocean and the Indian Ocean?
+Namibia
+South Africa
+Mozambique
+Madagascar
+2
+South Africa has coastline on both oceans.
