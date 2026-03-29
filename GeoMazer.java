@@ -1,7 +1,7 @@
 // Aryan Singhal
 // 5/18/22 (Due: 5/19/22)
 // Period 1
-// GeoMazer5.java
+// GeoMazer.java
 // GeoMazer is a game about learning Geography. This game is aimed towards
 // both middle and high school students with questions for beginners and advanced.
 // Players will learn about the geography of the USA and/or the World in a fun and
@@ -69,7 +69,7 @@ import javax.swing.event.ChangeListener;
 
 import java.awt.Insets;
 
-public class GeoMazer5 
+public class GeoMazer
 {
     // Main CardPanel to cards for the GeoMazer game pages
     private CardPanel cp;
@@ -127,7 +127,7 @@ public class GeoMazer5
     private JTextArea rankingArea; // Leaderboard ranking
 
     // initializes all private variables above.
-    public GeoMazer5() 
+    public GeoMazer() 
     {
         font1 = new Font("Tahoma", Font.BOLD, 40);
         font2 = new Font("Tahoma", Font.PLAIN, 25);
@@ -157,8 +157,8 @@ public class GeoMazer5
 
     public static void main(String[] args)
     {
-        GeoMazer5 gm5 = new GeoMazer5();
-        gm5.run();
+        GeoMazer gm = new GeoMazer();
+        gm.run();
     }
 
     // Game frame with card layout
@@ -2448,4 +2448,4 @@ public class GeoMazer5
             leaderFile = "Leaderboard_hard.txt";
         return leaderFile;
     }
-} // end of GeoMazer5 class
+} // end of GeoMazer class
